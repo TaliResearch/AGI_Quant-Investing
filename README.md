@@ -1,5 +1,5 @@
 # AGI_Quant-Investing
-A look at future impact of AGI on quant investing 
+A look at future impact of AGI on quant investment management 
 
 
 # Opportunities and Challenges in Quantitative Investment Management in the Era of Artificial General Intelligence (AGI)
