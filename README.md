@@ -4,11 +4,15 @@ A look at future impact of AGI on quant investing
 
 # Opportunities and Challenges in Quantitative Investment Management in the Era of Artificial General Intelligence (AGI)
 
+
+
 # Abstract
 The advent of Artificial General Intelligence (AGI) promises to revolutionize quantitative investment management by enhancing predictive capabilities, portfolio optimization, and operational efficiencies. However, the deployment of AGI systems introduces substantial challenges, including transparency issues, ethical dilemmas, and systemic risks. This paper provides a detailed analysis of the transformative potential of AGI in quantitative finance, examining both the opportunities it offers and the challenges it poses. This paper explores how investment firms can harness AGI effectively while mitigating risks to remain competitive in an increasingly dynamic and complex financial landscape.
 
 
+
 Keywords: Artificial General Intelligence (AGI), Quantitative Investment Management, Predictive Analytics, Portfolio Optimization, Systemic Risks, Black-Box Models.
+
 
 
 # Introduction
@@ -20,5 +24,4 @@ Quantitative investment management has historically been shaped by technological
 
 The implications of AGI for the investment management industry are profound. It promises to uncover complex relationships in data, automate decision-making, and reduce operational inefficiencies. However, its adoption also raises significant concerns, including the opacity of AGI systems, ethical considerations, and the potential for systemic risks in financial markets. This paper examines these dynamics in detail, offering insights into how AGI could reshape the future of quantitative investment management and how firms can navigate this transformative period.
 
-
-# See pdf paper in this repo for more..
+See pdf paper in this repo for more..
